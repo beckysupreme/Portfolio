@@ -136,7 +136,7 @@ const Hero = () => {
               Explore Work
             </Link>
             <a
-              href="https://drive.google.com/file/d/1vrznrEYvPfRHL4Q4mKdKZ8xL0K799cJ7/view?usp=drive_link"
+              href="https://drive.google.com/file/d/1dPcgGGVagmaLHYcANUeqWFL5dVWlcvIu/view?usp=drive_link"
               download
               className="inline-flex items-center gap-2 px-8 py-4 border-2 border-gray-300 dark:border-gray-600 text-gray-700 dark:text-gray-300 hover:border-primary-600 dark:hover:border-primary-400 hover:text-primary-600 dark:hover:text-primary-400 font-semibold rounded-full transition-all duration-300 hover:scale-105"
             >

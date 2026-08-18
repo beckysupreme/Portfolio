@@ -179,7 +179,7 @@ const ResumeSection = () => {
           <motion.a
             whileHover={{ scale: 1.05 }}
             whileTap={{ scale: 0.95 }}
-            href="https://drive.google.com/file/d/1vrznrEYvPfRHL4Q4mKdKZ8xL0K799cJ7/view?usp=drive_link"
+            href="https://drive.google.com/file/d/1dPcgGGVagmaLHYcANUeqWFL5dVWlcvIu/view?usp=drive_link"
             download
             className="inline-flex items-center gap-2 mt-6 px-6 py-3 bg-primary-600 hover:bg-primary-700 text-white font-semibold rounded-lg transition-all duration-300 shadow-lg"
           >
