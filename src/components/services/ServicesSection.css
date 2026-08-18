@@ -1,0 +1,14 @@
+/* Optional custom styles */
+.service-card {
+  transition: all 0.3s ease;
+}
+
+.service-card:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
+}
+
+/* Dark mode hover */
+.dark .service-card:hover {
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.4);
+}
